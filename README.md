@@ -161,7 +161,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Hugging Face for transformer implementations
 - PyTorch team for the deep learning framework
 
-## Contact
-kresimirpet@gmail.com
-
-https://github.com/pboric/DL.2.5
